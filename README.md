@@ -120,11 +120,12 @@ Food-Delivery-Analytics-Dashboard
 
 ---
 
+
 ## 📸 Dashboard Preview
 
 ### Executive Overview
 
-<img width="1291" height="715" alt="image" src="https://github.com/user-attachments/assets/e1779119-9d8a-4858-972d-be11c77eef8d" /># 🍽️ Food Delivery Analytics Dashboard
+
 
 ### Customer Analytics
 
@@ -134,7 +135,9 @@ Food-Delivery-Analytics-Dashboard
 
 
 
+
 ---
+
 
 ## 🚀 Author
 
