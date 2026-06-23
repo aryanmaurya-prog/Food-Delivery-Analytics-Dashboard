@@ -125,15 +125,15 @@ Food-Delivery-Analytics-Dashboard
 
 ### Executive Overview
 
-
+https://github.com/aryanmaurya-prog/Food-Delivery-Analytics-Dashboard/blob/main/Screenshots/Executive-Overview-Analytics.png
 
 ### Customer Analytics
 
-
+https://github.com/aryanmaurya-prog/Food-Delivery-Analytics-Dashboard/blob/main/Screenshots/Customer-Analytics.png
 
 ### Restaurant Performance Analytics
 
-
+https://github.com/aryanmaurya-prog/Food-Delivery-Analytics-Dashboard/blob/main/Screenshots/Restaurant-Performance%20Analytics.png
 
 
 ---
